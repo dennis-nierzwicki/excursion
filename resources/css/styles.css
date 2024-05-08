@@ -146,25 +146,38 @@ body {
     font-weight: normal;
     font-size: 50px;
     color: white;
+    padding: 40px 0px;
 }
 
 .excursion-h2 {
     font-weight: 300;
     font-size: 42px;
     color: white;
+    padding: 20px 0px;
 }
 
 .excursion-text {
     font-size: 21px;
     color: gray;
+    padding: 20px 0px;
 }
 
 .excursion-link {
     font-size: 16px;
     color: aquamarine;
+    padding: 30px 0px;
 }
 
 .excursion-footer {
     display: flex;
     justify-content: flex-end;
+    padding-right: 20px;
+}
+
+.excursion-video {
+    padding: 30px 0px;
+}
+
+.excursion-icon {
+    padding: 20px 0px;
 }
